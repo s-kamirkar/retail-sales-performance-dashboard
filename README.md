@@ -50,8 +50,8 @@ Retail-Sales-Performance-Analysis/
 
 ## Tableau Public Dashboard
 
-Add your Tableau Public dashboard link here.
 
+(https://public.tableau.com/app/profile/sana.kamirkar/viz/RetailSalesPerformanceDashboard_17831079640140/RetailSalesPerformanceDashboard?publish=yes)
 ## Author
 
 **Sana Kamirkar**
