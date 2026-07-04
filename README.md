@@ -45,7 +45,8 @@ Retail-Sales-Performance-Analysis/
 
 ## Dashboard Preview
 
-*(Add your dashboard screenshot here after uploading it to GitHub.)*
+<img width="2838" height="1280" alt="Retail Sales Performance Dashboard" src="https://github.com/user-attachments/assets/d0e39568-283c-4284-9d85-f64197fc8d8a" />
+
 
 ## Tableau Public Dashboard
 
