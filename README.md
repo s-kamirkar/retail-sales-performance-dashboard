@@ -47,6 +47,13 @@ Retail-Sales-Performance-Analysis/
 
 <img width="2838" height="1280" alt="Retail Sales Performance Dashboard" src="https://github.com/user-attachments/assets/d0e39568-283c-4284-9d85-f64197fc8d8a" />
 
+## Business Recommendations
+
+- **Double down on Technology inventory and marketing.** Since Technology drives the highest sales, allocate additional marketing spend and ensure stock availability for top Technology SKUs during peak months to avoid missed revenue from stockouts.
+- **Replicate West region's sales strategy in underperforming regions.** Analyze what's driving the West region's lead (pricing, promotions, local demand, sales team practices) and pilot similar tactics in the lowest-performing region to close the gap.
+- **Prioritize retention programs for the Consumer segment.** Since Consumer drives the highest profit, invest in loyalty programs, personalized offers, or faster support for this segment rather than spreading retention budget evenly across all three.
+- **Plan inventory and staffing around the November peak.** Increase stock levels and temporary staffing ahead of Q4, and consider extending November-style promotions into slower months (e.g., a mid-year sale) to smooth out the demand curve.
+- **Protect and expand the top revenue-driving products.** Since a small number of products drive a disproportionate share of revenue, ensure these SKUs never go out of stock, and evaluate whether similar/adjacent products could be cross-sold alongside them.
 
 ## Tableau Public Dashboard
 
