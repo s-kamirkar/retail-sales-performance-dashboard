@@ -1,11 +1,16 @@
+
+import os
+from dotenv import load_dotenv
 import pandas as pd
 import mysql.connector
+
+
+load_dotenv()
 
 # -------------------------------
 # Load CSV
 # -------------------------------
-df = pd.read_csv("Sample - Superstore.csv", encoding="latin1")
-
+df = pd.read_csv("DATA/Sample - Superstore.csv", encoding="latin1")
 # -------------------------------
 # Clean column names
 # -------------------------------
@@ -26,10 +31,10 @@ df["Ship_Date"] = pd.to_datetime(df["Ship_Date"], format="%m/%d/%Y")
 # Connect to MySQL
 # -------------------------------
 conn = mysql.connector.connect(
-    host="localhost",
-    user="root",
-    password="password",      # <-- Replace this
-    database="retail_sales_analysis"
+    host=os.getenv("DB_HOST"),
+    user=os.getenv("DB_USER"),
+    password=os.getenv("DB_PASSWORD"),
+    database=os.getenv("DB_NAME")
 )
 
 cursor = conn.cursor()
